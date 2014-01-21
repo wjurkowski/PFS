@@ -1,0 +1,9 @@
+Sumoer are scripts to prepare input files and parse output of Sumo, webserver predicting functional sites.
+
+1. Prepare input file 
+
+	./run_SuMo.pl
+
+2. Parse sumo output and compare with reference file
+
+	sumodig.pl

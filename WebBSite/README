@@ -1,0 +1,13 @@
+Separate scripts to run structure and sequence based methods
+SuMo is wrapped up separately as a script preparing input file for a batch run.
+
+WeBSiteStructure.pl
+	Metapocket	OK
+	SitesIdentify	not working
+	Thematics	?
+
+WeBSiteSequence.pl
+	ELM		OK
+	Consurf		not working
+
+parsebsite.pl   metapocket predictor parser
