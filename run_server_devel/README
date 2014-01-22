@@ -1,0 +1,6 @@
+grabit.pl
+	grab parameters needed to run web server job
+
+elm_web.py
+	prototypowy program do uruchamiania elm w pythonie
+
